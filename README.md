@@ -1,4 +1,3 @@
+# Patrones en JavaScript y React
 
-# JavaScript and React Patterns
-
-This repo includes the public source code for the [course website](https://javascriptpatterns.vercel.app/patterns) related to the [FrontendMasters workshop on JavaScript and React Patterns](https://frontendmasters.com/courses/tour-js-patterns/). Hope you enjoy the course :) 
+Este repositorio contiene el código fuente público destinado al [sitio web del curso](https://javascriptpatterns.vercel.app/patterns), el cual está relacionado con [el taller de FrontendMasters sobre Patrones en JavaScript y React](https://frontendmasters.com/courses/tour-js-patterns/). Esperamos que disfrutes del curso :)
